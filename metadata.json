@@ -1,0 +1,5 @@
+{
+  "name": "CriptoCalc - Conversor Inteligente",
+  "description": "Una aplicación de calculadora para convertir criptomonedas a dólares y pesos, con análisis de mercado inteligente impulsado por IA.",
+  "requestFramePermissions": []
+}
